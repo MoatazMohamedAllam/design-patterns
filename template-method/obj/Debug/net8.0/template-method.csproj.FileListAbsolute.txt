@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\demos\design-patterns\template-method\bin\Debug\net8.0\template-method.exe
+C:\Users\user\Desktop\demos\design-patterns\template-method\bin\Debug\net8.0\template-method.deps.json
+C:\Users\user\Desktop\demos\design-patterns\template-method\bin\Debug\net8.0\template-method.runtimeconfig.json
+C:\Users\user\Desktop\demos\design-patterns\template-method\bin\Debug\net8.0\template-method.dll
+C:\Users\user\Desktop\demos\design-patterns\template-method\bin\Debug\net8.0\template-method.pdb
+C:\Users\user\Desktop\demos\design-patterns\template-method\obj\Debug\net8.0\template-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\demos\design-patterns\template-method\obj\Debug\net8.0\template-method.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\demos\design-patterns\template-method\obj\Debug\net8.0\template-method.AssemblyInfo.cs
+C:\Users\user\Desktop\demos\design-patterns\template-method\obj\Debug\net8.0\template-method.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\demos\design-patterns\template-method\obj\Debug\net8.0\template-method.dll
+C:\Users\user\Desktop\demos\design-patterns\template-method\obj\Debug\net8.0\refint\template-method.dll
+C:\Users\user\Desktop\demos\design-patterns\template-method\obj\Debug\net8.0\template-method.pdb
+C:\Users\user\Desktop\demos\design-patterns\template-method\obj\Debug\net8.0\template-method.genruntimeconfig.cache
+C:\Users\user\Desktop\demos\design-patterns\template-method\obj\Debug\net8.0\ref\template-method.dll
